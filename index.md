@@ -7,3 +7,4 @@ layout: default
 Welcome.
 
 - [Testing](posts/first.md)
+- [Second](posts/second.md)
