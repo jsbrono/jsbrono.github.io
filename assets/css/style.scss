@@ -2,7 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-body {
+.body {
   background-color: #f0f0f5; 
 }
 
@@ -20,7 +20,6 @@ body {
   background-color: #e6e6ff;
 }
 
-/* Post title color */
 .post-card h3 {
   color: #003366;
 }
