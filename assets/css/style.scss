@@ -14,10 +14,6 @@ h1 a:hover {
   color: #3498db;
 }
 
-.post-card:hover h3 {
-  text-decoration: underline;
-}
-
 .post-container {
   display: flex;
   flex-direction: column;
@@ -33,6 +29,14 @@ h1 a:hover {
   color: inherit;
   background-color: #fefefe;
   transition: background 0.2s ease;
+}
+
+.post-card h3 {
+  text-decoration: none; 
+}
+
+.post-card:hover h3 {
+  text-decoration: underline; 
 }
 
 .post-card:hover {
