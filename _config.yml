@@ -1,5 +1,5 @@
 title: Jakub's Homepage
 description: Hello.
 collections:
-  projects:
+  posts:
     output: true
