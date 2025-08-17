@@ -31,10 +31,7 @@ h1 a:hover {
   transition: background 0.2s ease;
 }
 
-.post-card:hover h3 {
-  text-decoration: underline; 
-}
-
 .post-card:hover {
   background: #f8f8f8;
+  text-decoration: none; 
 }
