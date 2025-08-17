@@ -4,7 +4,6 @@ collections:
   posts:
     output: true
 
-theme: cayman
 plugins:
   - jekyll-remote-theme
 
